@@ -1,5 +1,7 @@
 # Peercall - Decentralized Video Chat
 
+## It is live at https://zipcall.io Will be deployed to IPFS/Unstoppable domains soon
+
 
 Decentralized video chat platform powered by WebRTC using Twilio STUN/TURN infrastructure.
 PeerCall provides video quality and latency simply not available with traditional
